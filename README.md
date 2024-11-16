@@ -11,7 +11,8 @@ My academic journey is enriched with a minor in Biology, allowing me to merge en
 - Genome-scale metabolic modeling of HEK cell lines
 - Comparative life-cycle assessment of hydrogen production methods
 - And many more...
-## 🎯 Goal: To contribute to advancements in pharmaceutical and sustainable biotechnologies.
+### 🎯 Goal: 
+To contribute to advancements in pharmaceutical and sustainable biotechnologies.
 
 ## 🛠 Technical Skills
 - Programming: Python, MATLAB, C++
