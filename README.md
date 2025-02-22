@@ -1,13 +1,13 @@
 ## 👋 Hi, I’m Diya K Aravind
-I am a final-year Chemical Engineering undergraduate at IIT Bombay, with a strong interest in pharmaceuticals, biotechnology, and sustainable energy solutions. 
+I am a pre-final-year Chemical Engineering student at IIT Bombay, with a strong interest in pharmaceuticals, biotechnology, and sustainable energy solutions. 
 My academic journey is enriched with a minor in Biology, allowing me to merge engineering principles with life sciences.
 
 ## 🔬 About Me
 ### 🌱 Current Focus: 
 - Controlled drug delivery using bi-layer osmotic tablets
+### 💡 Past Projects:
 - Researching microbiome resource partitioning models
 - 3D Cell Culture (Spheroids) using U87 MG cell line
-### 💡 Past Projects:
 - Genome-scale metabolic modeling of HEK cell lines
 - Comparative life-cycle assessment of hydrogen production methods
 - And many more...
